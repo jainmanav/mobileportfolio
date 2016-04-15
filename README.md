@@ -9,4 +9,5 @@ Optimizations performed by jainmanav:
 - Decreased the number of pizzas which needs to be rendered
 - Async JS load
 - Optimized the pizzeria image
+- made modifications in for loop in main.js
 - optimized functions in main.js
